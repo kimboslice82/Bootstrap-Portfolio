@@ -1,0 +1,37 @@
+body {
+    background: url("../images/light_grey_@2X.jpg");
+}
+
+h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    color: #4aaaa5;
+    font-weight: 700;
+    background: #fff;
+    border-bottom: 2px solid #ccc;
+   
+}
+
+.navbar-fixed-bottom {
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+    
+}
+
+.navbar-text {
+    
+    font-size: 12px;
+    color: #777;
+    text-align: center;
+}
+
+.navbar-header {
+    color: #fff;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+
+.navbar-brand {
+    background: #4aaaa5;
+    color: #fff;
+}
