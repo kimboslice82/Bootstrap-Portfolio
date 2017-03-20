@@ -9,7 +9,7 @@ h1 {
     font-weight: 700;
     background: #fff;
     border-bottom: 2px solid #ccc;
-    height: 100px;
+    height: 125px;
    
 }
 
@@ -44,4 +44,17 @@ h1 {
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #ddd;
+    color: #4aaaa5;
+    font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+.main-section {
+    background: #fff;
+    max-width: 90%;
+    margin-left: 50px;
+    float: left;
+}
+auth-image {
+    float: left;
 }
