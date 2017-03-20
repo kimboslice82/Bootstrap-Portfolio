@@ -9,6 +9,7 @@ h1 {
     font-weight: 700;
     background: #fff;
     border-bottom: 2px solid #ccc;
+    height: 100px;
    
 }
 
@@ -27,11 +28,20 @@ h1 {
 
 .navbar-header {
     color: #fff;
-  background: #fff;
-  border-bottom: 2px solid #ccc;
+    background: #fff;
+    border-bottom: 2px solid #ccc;
 }
 
 .navbar-brand {
     background: #4aaaa5;
-    color: #fff;
+    color: #777;
+}
+
+#connect {
+  width: 100%;
+  max-width: 270px;
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
 }
